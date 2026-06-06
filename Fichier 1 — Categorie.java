@@ -1,3 +1,4 @@
+Projet Java — Gestion de Budget Personnel
 Fichier 1 — Categorie.java
 java// classe qui représente une catégorie de dépense
 public class Categorie {
